@@ -1,5 +1,5 @@
 # Detection of Seizures Based on EEG Signals: A Machine Learning Approach
-Authors: Kaushika Uppu, Miranda Billawala, and Khang Nguyen
+*Kaushika Uppu, Miranda Billawala, and Khang Nguyen*
 
 ***Abstract —*** Epilepsy, a disorder that affects many people
 worldwide, is defined by recurring seizures, which can be
